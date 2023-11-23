@@ -2180,6 +2180,7 @@ body.dark .arlo_tm_settings .cursor li .svg,
 .ItemsMenuContent {
 	margin-top: 40px;
 	justify-content: center;
+	height: 450px;
 }
 
 .card {
@@ -2340,6 +2341,7 @@ body.dark .arlo_tm_settings .cursor li .svg,
 .projectCard {
 	display: none;
 	animation: slideIn 1s;
+	height: 400px;
   }
   
 .projectCard.active {
